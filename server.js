@@ -1,1 +1,3 @@
-const db = require("./db/connection.js");
+const { mainMenu } = require("./lib/menu");
+
+mainMenu();

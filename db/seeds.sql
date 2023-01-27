@@ -31,5 +31,3 @@ VALUES ('Jon', 'Le', 2, NULL),
   ('Steve', 'Tranoki', 4, 4),
   ('Tim', 'Fuller', 7, NULL),
   ('Tom', 'Young', 4, 2);
-SELECT *
-FROM employee;

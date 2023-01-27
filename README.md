@@ -35,10 +35,13 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ---
 
-## Visuals
+## DEMO
 <img width="555" alt="Menu" src="https://user-images.githubusercontent.com/115510413/214983633-11753fbb-fadb-4ed3-9de0-a069acef2d08.png">
 <img width="562" alt="Employees" src="https://user-images.githubusercontent.com/115510413/214983631-1f97c685-b54a-49c3-892e-3f0000459a86.png">
 <img width="560" alt="Delete" src="https://user-images.githubusercontent.com/115510413/214983629-fcaa0fbc-c041-4bc9-99f3-efe062a00130.png">
+
+[demo.webm](https://user-images.githubusercontent.com/115510413/214984493-2b16ed6c-0aca-498a-875f-abb3f64e7a36.webm)
+
 
 
 ---
